@@ -1,0 +1,9 @@
+python-telegram-bot
+requests
+beautifulsoup4
+psutil
+textblob
+langdetect
+wikipedia-api
+pillow
+nltk
